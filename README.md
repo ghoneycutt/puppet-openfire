@@ -1,3 +1,12 @@
+# DEPRECATED
+
+This module has moved.
+
+[https://github.com/ghoneycutt/puppet-module-openfire](https://github.com/ghoneycutt/puppet-module-openfire)
+
+
+===
+
 openfire
 
 http://www.igniterealtime.org/projects/openfire/
